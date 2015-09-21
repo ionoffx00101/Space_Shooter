@@ -50,7 +50,13 @@ Temporary Items
 [Bb]uild
 [Ll]ibrary/
 sysinfo.txt
- 
+
+ # Unity3D generated meta files
+*.pidb.meta
+
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
+
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
 # ===================================== #
@@ -64,7 +70,7 @@ sysinfo.txt
 *.user
 *.unityproj
 *.booproj
- 
+
 # ============ #
 # OS generated #
 # ============ #
@@ -75,3 +81,4 @@ sysinfo.txt
 Icon?
 ehthumbs.db
 [Tt]humbs.db
+
