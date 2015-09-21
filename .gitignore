@@ -45,10 +45,10 @@ Temporary Items
 # =============== #
 # Unity generated #
 # =============== #
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Ll]ibrary/
+[Tt]emp/*
+[Oo]bj/*
+[Bb]uild/*
+[Ll]ibrary/*
 sysinfo.txt
 
  # Unity3D generated meta files
