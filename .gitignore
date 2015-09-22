@@ -45,10 +45,10 @@ Temporary Items
 # =============== #
 # Unity generated #
 # =============== #
-[Tt]emp/*
-[Oo]bj/*
-[Bb]uild/*
-[Ll]ibrary/*
+Space Shooter/[Tt]emp/*
+Space Shooter/[Oo]bj/*
+Space Shooter/[Bb]uild/*
+Space Shooter/[Ll]ibrary/*
 sysinfo.txt
 
  # Unity3D generated meta files
@@ -81,4 +81,5 @@ sysinfo.txt
 Icon?
 ehthumbs.db
 [Tt]humbs.db
+
 
